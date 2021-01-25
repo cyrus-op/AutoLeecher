@@ -2,7 +2,7 @@ aiohttp
 aria2p
 hachoir
 Pillow
-pyrogram
+https://github.com/cyrus-op/pyrogram/archive/asyncio.zip
 tgcrypto
 youtube-dl
 cffi==1.13.2
